@@ -21,18 +21,19 @@ let mySpeech =
   lastName +
   "." +
   " " +
-  "My skills are:" +
+  "My skills are" +
   " " +
   mySkills[0] +
   ", " +
   mySkills[1] +
   ", " +
   mySkills[2] +
+  " " +
   "and " +
   mySkills[3] +
   "." +
   " " +
-  "I am in the" +
+  "I am currently learning Software Development via Stutern Graduate Accelerator program. I'm specialising in the" +
   " " +
   stuternTrack +
   " " +
