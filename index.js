@@ -13,6 +13,39 @@ let mySkills = ["HTML", "CSS", "JavaScript", "Git"];
 let favoriteColor = "blue";
 let countryIndependence = 1960;
 
-let mySpeech = "Hello there, my name is" + " " + firstName + " " + lastName + "." + " " + "My skills are:" + " " + mySkills[0] + ", " + mySkills[1] + ", " + mySkills[2] + "and " + mySkills[3] + "." + " " + "I am in the" + " " + stuternTrack + " " + "track." + " " + "My favorite colour is" + " " + favoriteColor + "." + " " + "I am from Nigeria and my country got her independence in" + " " + countryIndependence + "."
+let mySpeech =
+  "Hello there, my name is" +
+  " " +
+  firstName +
+  " " +
+  lastName +
+  "." +
+  " " +
+  "My skills are:" +
+  " " +
+  mySkills[0] +
+  ", " +
+  mySkills[1] +
+  ", " +
+  mySkills[2] +
+  "and " +
+  mySkills[3] +
+  "." +
+  " " +
+  "I am in the" +
+  " " +
+  stuternTrack +
+  " " +
+  "track." +
+  " " +
+  "My favorite colour is" +
+  " " +
+  favoriteColor +
+  "." +
+  " " +
+  "I am from Nigeria and my country got her independence in" +
+  " " +
+  countryIndependence +
+  ".";
 
-console.log(mySpeech)
+console.log(mySpeech);
